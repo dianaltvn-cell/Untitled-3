@@ -14,7 +14,7 @@
 <category id="4310" parentId="4367">Ляльки, набори для ляльок</category>
 </categories>
 <offers>
-<offer id="amp-autotest-yml-1" available="true">
+available="true">
 <salePrice>8479</salePrice>
 <price>49999</price>
 <currencyId>UAH</currencyId>
@@ -45,6 +45,6 @@
 <param name="Персонаж">Ариэль</param>
 <param name="Гарантийный срок">12 месяцев</param>
 </offer>
-</offers>
+
 </shop>
 </yml_catalog>
